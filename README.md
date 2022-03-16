@@ -1,10 +1,3 @@
-<p align="center">
-    img src=" ">
-</p>
-
-.
-
-
 
 - 👋 Hi, I’m @AniCaroline
 - 👀 I’m interested in learning
